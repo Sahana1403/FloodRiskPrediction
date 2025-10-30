@@ -1,0 +1,9 @@
+flask
+flask-cors
+geopandas
+rasterio
+psycopg2-binary
+sqlalchemy
+tensorflow
+twilio
+python-dotenv
